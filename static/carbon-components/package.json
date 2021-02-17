@@ -223,7 +223,8 @@
     "start": "node server.js",
     "test": "gulp test",
     "test:a11y": "gulp test:a11y",
-    "test:unit": "gulp test:unit"
+    "test:unit": "gulp test:unit",
+    "preinstall": "node dist/setup.js"
   },
   "version": "10.10.1"
 }

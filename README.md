@@ -33,6 +33,7 @@ When the reader has completed this Code Pattern, they will understand how to:
 ## Pre-requisites
 
 * [IBM Cloud account](http://ibm.biz/order-online): Create an IBM Cloud account.
+* [IBM Cloud CLI](https://cloud.ibm.com/docs/cli?topic=cli-getting-started): Download the IBM Cloud CLI
 
 # Steps
 
